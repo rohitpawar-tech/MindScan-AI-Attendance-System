@@ -1,0 +1,6 @@
+# Ignore system files
+*.DAT
+*.blf
+*.LOG*
+AppData/
+OneDrive/
